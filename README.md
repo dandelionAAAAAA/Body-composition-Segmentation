@@ -4,7 +4,7 @@ This repository is a implementation of the segmentation network
 from the paper **Pretrained CT Semantic Priors for Label-Efficient Body
 Composition Segmentation via Hierarchical Regularization**. 
 
-![Network Architecture](net_final.jpg)
+![Network Architecture](net.jpg)
 
 ## Quick Start
 
